@@ -1,0 +1,173 @@
+.img-responsive{
+    width: 100% !important;
+}
+
+#slider {
+}
+
+#photodiary {
+}
+
+#lifestyle {
+}
+
+#newsletter {
+    background-color: #F3F3F3;
+    height: 275px;
+}
+
+#lifestyle_bottom {
+}
+
+
+.logo {
+}
+
+.logo h1 {
+    color: #101010;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 100;
+    padding: 15px 0px;
+}
+
+.custom-nav{
+    background-color: transparent !important;
+    border: none !important;
+    margin-top: 10px;
+}
+
+.custom-nav ul{
+    
+}
+
+.custom-nav ul li{
+    
+}
+
+
+.custom-nav ul li a{
+    color: #A0A0A0 !important;
+    font-size: 18px !important;
+    text-transform: uppercase;
+    font-weight: 100;
+    padding: 35px 35px;
+}
+
+.custom-nav ul li:last-child a{
+    padding-right: 0px;
+}
+
+.custom-nav ul li a:hover{
+    color: #020202 !important;
+    transition: 0.5s;
+}
+
+.slider {
+}
+
+
+.common_sub_title {
+    margin: 45px 0px;
+    
+}
+
+.common_sub_title p{
+    color: #8D8D8D;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+.description_padding {
+    padding: 0px 40px;
+}
+
+
+.description h1{
+    color: #626262;
+    font-size: 39px;
+}
+
+.description p{
+    color: #626262;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
+.single_content {
+    margin: 45px 0px;
+}
+
+.content_img {
+}
+
+.newsletter_form h1 {
+    color: #505050;
+    font-size: 37px;
+    font-weight: 100;
+    padding: 30px 0px;
+}
+
+.newsletter_form form{
+    position: relative;
+    width: 320px;
+    margin: 0 auto;
+}
+
+.newsletter_form form input:focus{
+    border-bottom: 3px solid black;
+}
+
+.newsletter_form form input{
+    width: 320px;
+    height: 43px;
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.newsletter_form form button{
+    background-color: transparent;
+    border: none;
+    position: absolute;
+    right: -6px;
+    top: 9px;
+}
+
+.newsletter_form.text-center {
+}
+
+.form-inline {
+}
+
+.load_more {
+    margin: 50px 0px;
+}
+
+.load_more button{
+    background-color: transparent;
+    border: 1px solid black;
+    padding: 15px 25px;
+    font-size: 16px;
+    color: #626262;
+}
+
+footer{
+    background-color: #F3F3F3;
+    padding: 30px 0px;
+}
+
+.terms_conditions ul li a, .social_media ul li a{
+    text-decoration: none;
+    color: #626262;
+    font-size: 16px;
+}
+.terms_conditions {
+}
+
+.social_media {
+}
+
